@@ -1,4 +1,5 @@
 # Learn-ReactNative
+* With React Native in Action: https://www.manning.com/books/react-native-in-action
 "axios": "^0.18.0",
 "i18n-js": "^3.2.1",
 "jsc-android": "236355.x.x",
